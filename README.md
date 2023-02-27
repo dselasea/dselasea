@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hi, I'm Selase Anyidoho!
+<hr style="border-bottom: 1px solid #333" />
 
-- 🔭 I’m currently working on MERN Stack
-- 🌱 I’m currently learning React
-- 📫 How to reach me: dselasea@gmail.com
-- ⚡ Fun fact: I'm a Stand Up Comedian
+
+
+<i>Remote Front-End Developer ready for new opportunies</i>
+
+
+
+
