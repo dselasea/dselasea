@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Selase</h1>
-<h3 align="center"><i>A passionate frontend developer from Accra, Ghana</i></h3>
+<h3 align="center"><i>A passionate Software Engineer from Accra, Ghana</i></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dselasea&label=Profile%20views&color=0e75b6&style=flat" alt="dselasea" /> </p>
 
